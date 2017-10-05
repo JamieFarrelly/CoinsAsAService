@@ -479,3 +479,6 @@ fieldset[disabled] .btn-primary:hover {
 .white {
     color: white;	
 }
+.nowrap {
+    white-space: nowrap;
+}
