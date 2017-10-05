@@ -71,7 +71,7 @@
 })(jQuery); // End of use strict
 
 
-
+// particle js
 particlesJS("particles-js", {
     "particles": {
 		"number": {
