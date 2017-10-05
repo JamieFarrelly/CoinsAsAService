@@ -472,7 +472,6 @@ fieldset[disabled] .btn-primary:hover {
     transform: translate(-50%, -50%);
 }
 .text-overlay h1 {
-    font-size: 4.2rem;
     white-space: nowrap;
     color: white;
     padding-bottom: 20px;
