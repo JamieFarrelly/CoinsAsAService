@@ -477,3 +477,6 @@ fieldset[disabled] .btn-primary:hover {
     color: white;
     padding-bottom: 20px;
 }
+.white {
+    color: white;	
+}
