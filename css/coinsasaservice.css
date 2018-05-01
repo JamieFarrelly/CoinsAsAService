@@ -482,3 +482,6 @@ fieldset[disabled] .btn-primary:hover {
 .nowrap {
     white-space: nowrap;
 }
+#product-hunt-image {
+    width: 10%;
+}
